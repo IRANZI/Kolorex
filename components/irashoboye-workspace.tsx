@@ -41,7 +41,7 @@ type RegisterState = {
 };
 
 const COMPANY_NAME = "Kolorex Establishment Limited";
-const CONTACT_PHONE_NUMBER = "+250 784 321 509";
+const CONTACT_PHONE_NUMBER = "+256 784 321 509";
 
 const viewCopy: Record<"en" | "rw", Record<WorkspaceView, { eyebrow: string; title: string; description: string }>> = {
   en: {
